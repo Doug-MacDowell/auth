@@ -18,5 +18,3 @@ A user can sign up for an account. When logging in, the user will enter a passwo
 ### Contributing
 
 *Not applicable*
-
-1
